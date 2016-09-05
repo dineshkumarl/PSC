@@ -4,12 +4,17 @@ body{
 
 .header{
 background-color:#000;
-width: 500px;
+width:650px;
 min-height: 20px;
 }
 
 .center
 {
-	width:650px;
 	margin:0px auto;
+}
+.main-content{
+  width:650px;
+  background-image: url("../img/bg.gif");
+  min-height: 330px;
+  opacity: .5; 
 }
