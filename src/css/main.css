@@ -16,5 +16,26 @@ min-height: 20px;
   width:650px;
   background-image: url("../img/bg.gif");
   min-height: 330px;
- 
+
+}
+
+
+.main-content .menu
+{
+	float:left;
+
+}
+
+.main-content  .menu .menu-list
+{
+	padding:0px;
+	overflow:hidden;
+	margin-top:10px;
+}
+
+.main-content .menu-list li
+{
+	display:inline-block;
+	list-style:none;
+	margin-right:20px;
 }
