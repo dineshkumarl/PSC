@@ -32,3 +32,39 @@ min-height: 20px;
   padding:4px 8px;
   color:#fff;
 }
+
+.main-content .home-banner{
+  margin: 10px 10px 0px 10px;
+  font-size: 15px;
+  color: #ffa500;
+  background-color: #888;
+  padding: 6px;
+}
+.main-content .home-hero-imagecont{
+  background-color: rgba(255,255,255,0.93);
+  min-height: 210px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.main-content .home-hero-img{
+  display: block;
+  margin:0 auto;
+}
+
+.main-content .home-main-msg{
+   padding:10px;
+   font-size: 11px;
+   margin:0px;
+}
+.main-content .home-main-msg .more-link{
+  color:#ffa500;
+  text-decoration: none;
+}
+.home-ruler{
+  margin: 10px 15px;
+  height: 0px;
+}
+.main-content .home-nae-heading{
+  padding:5px;
+}
