@@ -68,3 +68,28 @@ min-height: 20px;
 .main-content .home-nae-heading{
   padding:5px;
 }
+
+.main-content .footer
+{
+	    background-color: rgba(255,255,255,0.93);
+        margin:0px 10px 0px 10px;
+}
+
+.main-content  .footer .footer-section
+{
+float:left;
+margin-top:14px;
+margin-left:9px;
+}
+
+.footer .footer-section .footer-section-image
+{
+float:left;
+margin-right:14px;
+}
+
+.footer .footer-section .footer-section-content
+{
+float:left;
+
+}
