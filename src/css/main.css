@@ -4,7 +4,9 @@ body {
   font-size:9px;
 }
 
-.clearfix{
+
+.clearfix
+{
 	overflow:hidden;
 }
 
@@ -71,7 +73,9 @@ min-height: 20px;
 }
 .main-content .home-nae-heading{
   padding:5px;
-}
+margin-bottom:0px;
+  }
+
 
 .main-content .footer
 {
@@ -79,11 +83,14 @@ min-height: 20px;
         margin:0px 10px 0px 10px;
 }
 
-.main-content  .footer .footer-section
+.main-content .footer .footer-section
 {
 float:left;
-margin-top:14px;
-margin-left:9px;
+margin-top:25px;
+margin-left:29px;
+}
+.main-content .footer .footer-section:first-child{
+  margin-left:10px;
 }
 
 .footer .footer-section .footer-section-image
@@ -92,15 +99,29 @@ float:left;
 margin-right:14px;
 }
 
+
+.footer .footer-section.king-photo-section
+{
+	float:right;
+margin:-6px 30px 6px 0px;
+}
+
+.footer-section-content .list-section
+{
+    padding:5px;
+ 	list-style:none;
+	margin:2px 0px 0px 3px;
+}
+
+.disclaimer-content
+{
+  background-color: rgba(255,255,255,0.93);
+text-align: center;
+}
+
+
 .footer .footer-section .footer-section-content
 {
 float:left;
 
-}
-
-.footer-section-content .list-section li
-{
-
- 	list-style:none;
-	margin-left:0px;
 }
