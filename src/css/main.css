@@ -93,3 +93,10 @@ margin-right:14px;
 float:left;
 
 }
+
+.footer-section-content .list-section li
+{
+
+ 	list-style:none;
+	margin-left:0px;
+}
