@@ -22,7 +22,7 @@ min-height: 20px;
 
 .main-content {
   width:750px;
-  background-image: url("../img/bg.gif");
+  background-image: url("../img/bg.gif")  no-repeat;
   min-height: 330px;
 }
 
@@ -51,6 +51,7 @@ min-height: 20px;
   min-height: 210px;
   margin-left: 10px;
   margin-right: 10px;
+
 }
 
 .main-content .home-hero-img{
@@ -75,8 +76,16 @@ min-height: 20px;
   padding:5px;
 margin-bottom:0px;
   }
-
-
+.main-content .plan-head
+{
+  font-size: 11px;
+  margin-left:10px;
+}
+.main-content .plan-list
+{
+font-size: 11px;
+  margin-left: 23px;
+}
 .main-content .footer
 {
 	    background-color: rgba(255,255,255,0.93);
