@@ -22,7 +22,8 @@ min-height: 20px;
 
 .main-content {
   width:750px;
-  background-image: url("../img/bg.gif")  no-repeat;
+  background: url("../img/bg.gif")  no-repeat;
+  background-color:#fff;
   min-height: 330px;
 }
 
