@@ -66,6 +66,13 @@ min-height: 20px;
    font-size: 11px;
    margin:0px;
 }
+.main-content .vision-msg{
+   padding:10px;
+   font-size: 11px;
+   margin:0px;
+   font-weight: bold;
+}
+
 .main-content .home-main-msg .more-link{
   color:#ffa500;
   text-decoration: none;
@@ -76,7 +83,7 @@ min-height: 20px;
 }
 .main-content .home-nae-heading{
   padding:5px;
-margin-bottom:0px;
+margin-bottom:10px;
   }
 .main-content .plan-head
 {
@@ -87,6 +94,20 @@ margin-bottom:0px;
 {
 font-size: 11px;
   margin-left: 23px;
+}
+
+.main-content .mission-list
+{
+font-size: 11px;
+  margin-left: 23px;
+font-weight: bold;
+}
+
+.main-content .objective-list
+{
+  font-size: 11px;
+ margin-left: 23px;
+font-weight: bold;
 }
 .main-content .footer
 {
@@ -128,7 +149,7 @@ margin:-6px 30px 6px 0px;
 {
   background-color: rgba(255,255,255,0.93);
 text-align: center;
-margin:-0.75px 10px 10px 10px;
+padding:-0.75px 10px 10px 10px;
 }
 
 
